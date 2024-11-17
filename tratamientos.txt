@@ -1,0 +1,20 @@
+Manicura
+8000
+Perfilado de cejas
+4500
+Lifting de pestanas
+11000
+Extensiones de pestanas
+16000
+Limpieza Facial
+20000
+Podologia
+30000
+Maquillaje
+25000
+Peinado
+20000
+Depilacion con cera (Completo)
+10000
+Depilacion con laser (Completo)
+18000
